@@ -1,0 +1,24 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "Заготовка для второй домашней работы",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunluwer/kb-backend-week-2-startkit-main.git"
+  },
+  "author": "sunluwer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunluwer/kb-backend-week-2-startkit-main/issues"
+  },
+  "homepage": "https://github.com/sunluwer/kb-backend-week-2-startkit-main#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
